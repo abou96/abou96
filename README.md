@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abou704
+- 👋 Hi, I’m Aboubakiri DIAW (@abou704)
 - 👀 I’m interested in Data science which include Machine learning, Deep learning, NLP, Reinforcement learning
 - 🌱 I’m currently learning Machine learning and Deep learning models
 - 💞️ I’m looking to collaborate on Machine learning and Deep learning projects
