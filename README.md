@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aboubakiri</h1>
-<h3 align="center">A passionate Machine Learning from Morocco</h3>
+<h3 align="center">A passionate of Machine Learning from Morocco</h3>
 
 - 🔭 I’m currently working on **Data science which include Machine learning, Deep learning, NLP, Reinforcement learning etc...**
 
