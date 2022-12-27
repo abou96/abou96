@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **on Machine learning and Deep learning projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abou704](https://github.com/abou704)
+- 👨‍💻 All of my projects are available at [https://github.com/abou96](https://github.com/abou704)
 
 - 📝 I regularly write articles on [https://abou704.github.io](https://abou704.github.io)
 
