@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abou96](https://github.com/abou704)
 
-- 📝 I regularly write articles on [https://abou704.github.io](https://abou704.github.io)
+- 📝 I regularly write articles on [https://abou96.github.io](https://abou96.github.io)
 
 - 📫 How to reach me **https://www.linkedin.com/in/aboubakiri-diaw-8a9a35173/**
 
